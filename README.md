@@ -1,0 +1,2 @@
+# hello-world
+This is the description of my new repository "hello-world", because I am   ̶n̶o̶o̶b̶ new  in the programming together world and a 10 minute tutorial page made me to do one. 
